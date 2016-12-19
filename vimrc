@@ -1,0 +1,12 @@
+syntax on
+set number
+set shiftwidth=4
+set tabstop=4
+set fileencoding=utf-8
+set autoindent
+set nobackup
+set smartindent
+set history=1000
+set hlsearch
+set ignorecase
+set showmatch
